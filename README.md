@@ -5,3 +5,6 @@ are saved in a mongodb data base. It exposes a front end web interface where it 
 corresponding country that is send as parameter. It exposes an API for Get, Post, Put and Delete requests. The service is implemented
 in NodeJS and uses express for handling the HTTP requests. It also implements a simple back-end that saves and query cities in 
 a mongoDB data base depending of the HTTPS request is received. Dependencies on NodeJS, Express, Mongoose and MongoDB need to be installed.
+
+### City Query
+![Screenshot](cityQueryScreenShot.png)
